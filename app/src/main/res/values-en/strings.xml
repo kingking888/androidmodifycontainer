@@ -1,0 +1,4 @@
+<resources>
+    <!--Avoid to be Override By library-->
+    <string name="app_name">多米改机</string>
+</resources>
